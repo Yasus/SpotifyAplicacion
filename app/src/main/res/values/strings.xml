@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spotify</string>
+
+    <string name="authorize">Reproducir</string>
+    <string name="pause">Pausar</string>
+
+</resources>
